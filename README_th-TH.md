@@ -1,5 +1,9 @@
 
-> 💡 🎬 ดูคอลเลกชัน prompt Seedance 2.0 ของเรา — prompt วิดีโอไวรัลจาก 𝕏 อัปเดตรายวัน 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+<a href="https://youmind.com/th-TH/nano-banana-pro-prompts">
+  <img src="https://marketing-assets.youmind.com/campaigns/nano-banana-pro-prompts-og-hq.png" alt="Nano Banana Pro Prompts" width="100%" />
+</a>
+
+> 💡 🎨 ดูคอลเลกชัน prompt GPT Image 2 ของเรา — โมเดลภาพยุคใหม่ อัปเดตรายวัน 👉 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 # 🚀 สุดยอด Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +141,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **12540** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันอังคารที่ 21 เมษายน พ.ศ. 2569 เวลา 0 นาฬิกา 15 นาที 51 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันอังคารที่ 21 เมษายน พ.ศ. 2569 เวลา 1 นาฬิกา 49 นาที 49 วินาที UTC** |
 
 </div>
 
@@ -5670,6 +5674,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-21T00:15:51.633Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-21T01:49:49.868Z</sub>
 
 </div>

@@ -1,5 +1,9 @@
 
-> 💡 🎬 查看我们的 Seedance 2.0 提示词库 — 𝕏 热门视频提示词，每日更新 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+<a href="https://youmind.com/zh-CN/nano-banana-pro-prompts">
+  <img src="https://marketing-assets.youmind.com/campaigns/nano-banana-pro-prompts-og-hq.png" alt="Nano Banana Pro Prompts" width="100%" />
+</a>
+
+> 💡 🎨 查看我们的 GPT Image 2 提示词库 — 次世代图像模型，每日更新 👉 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 # 🚀 Nano Banana Pro 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +141,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **12540** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年4月21日星期二 UTC 00:15:32** |
+| 🔄 最后更新 | **2026年4月21日星期二 UTC 01:49:34** |
 
 </div>
 
@@ -5750,6 +5754,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-21T00:15:32.816Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-21T01:49:34.355Z</sub>
 
 </div>

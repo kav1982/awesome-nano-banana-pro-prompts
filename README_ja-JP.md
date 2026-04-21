@@ -1,5 +1,9 @@
 
-> 💡 🎬 Seedance 2.0 プロンプトコレクションをチェック — 𝕏から毎日更新されるバイラル動画プロンプト 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+<a href="https://youmind.com/ja-JP/nano-banana-pro-prompts">
+  <img src="https://marketing-assets.youmind.com/campaigns/nano-banana-pro-prompts-og-hq.png" alt="Nano Banana Pro Prompts" width="100%" />
+</a>
+
+> 💡 🎨 GPT Image 2 プロンプトコレクションをチェック — 次世代の画像モデル、毎日更新 👉 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 # 🚀 Nano Banana Pro プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +141,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **12540** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年4月21日火曜日 0:15:41 UTC** |
+| 🔄 最終更新 | **2026年4月21日火曜日 1:49:42 UTC** |
 
 </div>
 
@@ -5756,6 +5760,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-04-21T00:15:41.273Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-04-21T01:49:42.296Z</sub>
 
 </div>

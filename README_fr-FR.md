@@ -1,5 +1,9 @@
 
-> 💡 🎬 Découvrez notre collection de prompts Seedance 2.0 — prompts vidéo viraux de 𝕏, mis à jour quotidiennement 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+<a href="https://youmind.com/fr-FR/nano-banana-pro-prompts">
+  <img src="https://marketing-assets.youmind.com/campaigns/nano-banana-pro-prompts-og-hq.png" alt="Nano Banana Pro Prompts" width="100%" />
+</a>
+
+> 💡 🎨 Découvrez notre collection de prompts GPT Image 2 — le modèle d'image de nouvelle génération, mis à jour quotidiennement 👉 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 # 🚀 Prompts Nano Banana Pro Géniaux
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +141,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **12540** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **mardi 21 avril 2026 à 00:16:22 UTC** |
+| 🔄 Dernière mise à jour | **mardi 21 avril 2026 à 01:50:12 UTC** |
 
 </div>
 
@@ -5750,6 +5754,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-21T00:16:22.259Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-21T01:50:12.716Z</sub>
 
 </div>

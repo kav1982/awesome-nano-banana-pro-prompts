@@ -1,5 +1,9 @@
 
-> 💡 🎬 हमारे Seedance 2.0 प्रॉम्पट्स संग्रह देखें — 𝕏 से वायरल वीडियो प्रॉम्प्ट्स, रोज़ाना अपडेट 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+<a href="https://youmind.com/hi-IN/nano-banana-pro-prompts">
+  <img src="https://marketing-assets.youmind.com/campaigns/nano-banana-pro-prompts-og-hq.png" alt="Nano Banana Pro Prompts" width="100%" />
+</a>
+
+> 💡 🎨 हमारे GPT Image 2 प्रॉम्प्ट्स संग्रह देखें — अगली पीढ़ी का इमेज मॉडल, रोज़ाना अपडेट 👉 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 # 🚀 शानदार Nano Banana Pro प्रॉम्पट्स
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -137,7 +141,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **12540** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **मंगलवार, 21 अप्रैल 2026 को 12:16:02 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **मंगलवार, 21 अप्रैल 2026 को 1:49:57 am UTC बजे** |
 
 </div>
 
@@ -5666,6 +5670,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-21T00:16:02.167Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-21T01:49:57.762Z</sub>
 
 </div>
